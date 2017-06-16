@@ -12,7 +12,7 @@ Exploration of ECG signals.
 
 ## Task 1 - Initial Visualization
 
-1. Load ECG signals from PhysioNet's NSRDB or MITDB into python environment. Visualize the signals.
+1. Load ECG signals from PhysioNet's NSRDB or MITDB into python environment. You will load signals using the `rdsamp` function from the wfdb-python package. Visualize the signals.
 2. Load the corresponding annotation files from PhysioNet into python environment. Plot the qrs locations on top of the signals.
 3. Calculate r-r intervals and instantaneous heart rate. Plot these values with the qrs locations on top of the signals.
 
