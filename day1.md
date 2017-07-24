@@ -29,7 +29,9 @@
 - Why is it technically wrong to say that a programming language is compiled or interpreted? What do people mean when they say this?
 - What is python? What is the executable located in `/usr/bin/python`?
 - Why are python virtual environments important?
-- Create a virtual environment
-- Use pip to download a package in your virtual environment (numpy)
+- Create a virtual environment with the python2.7 interpreter, and another with python3.5.
+- Activate/deactivate the virtual environment
+- Use pip to download a package in your virtual environment (numpy, wfdb, jupyter)
 - Show where the python interpreter is for your virtual environment
 - Perform task 1 in the README.md file. Write your code in a source file. Run the code in the source file.
+

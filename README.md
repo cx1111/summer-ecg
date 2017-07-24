@@ -53,8 +53,12 @@ Help build the live ECG display which has the following features:
 
 ## Arduino
 
+- https://www.arduino.cc/en/Guide/Linux/
 - https://www.arduino.cc/en/Guide/HomePage
 - https://www.arduino.cc/en/Tutorial/HomePage
 - https://www.arduino.cc/en/Reference/HomePage
 
+## Python Packages
+
+- pyqtgraph documentation: http://www.pyqtgraph.org/documentation/
 
