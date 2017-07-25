@@ -2,6 +2,10 @@
 
 ## Specific Tasks/Questions
 
+- Sampling frequency and signal frequency.
+  - Explain the concepts.
+  - Plot sine waves with 3 different frequencies [2, 4, 8], sampled at [20, 200] Hz.
+  - Plot a sum of three sine waves with frequencies [2, 20, 70] Hz.
 - Read in the first channel of all the records in the `day2/data` directory (use the `RECORDS` file). Plot the signals.
 - Take a look at the variations within each signal.
 - Simple QRS detector
